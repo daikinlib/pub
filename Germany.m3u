@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3 sat" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+657
+#EXTINF:-1 tvg-id="ARD" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+665
+#EXTINF:-1 tvg-id="Arte." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+380
+#EXTINF:-1 tvg-id="Boomerang" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+381
+#EXTINF:-1 tvg-id="Cartoon Network," tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+651
+#EXTINF:-1 tvg-id="Cinemagic" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+634
+#EXTINF:-1 tvg-id="Dazn1." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+777
+#EXTINF:-1 tvg-id="Dazn2." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+778
+#EXTINF:-1 tvg-id="Discovery," tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+652
+#EXTINF:-1 tvg-id="Disney Channel." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+383
+#EXTINF:-1 tvg-id="Dmax." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+384
+#EXTINF:-1 tvg-id="Euro Sport." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+385
+#EXTINF:-1 tvg-id="Fox," tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+653
+#EXTINF:-1 tvg-id="Kabel 1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+386
+#EXTINF:-1 tvg-id="Kika" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+387
+#EXTINF:-1 tvg-id="N24" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+388
+#EXTINF:-1 tvg-id="NTV" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+389
+#EXTINF:-1 tvg-id="ORF 2" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+390
+#EXTINF:-1 tvg-id="ORF Eins" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+391
+#EXTINF:-1 tvg-id="Pro 7" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+392
+#EXTINF:-1 tvg-id="Pro 7 Max" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+393
+#EXTINF:-1 tvg-id="RTL 2." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+395
+#EXTINF:-1 tvg-id="RTL Nitro" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+396
+#EXTINF:-1 tvg-id="RTL." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+394
+#EXTINF:-1 tvg-id="SAT.1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+397
+#EXTINF:-1 tvg-id="Sixx" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+398
+#EXTINF:-1 tvg-id="Sky 1 DE" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+597
+#EXTINF:-1 tvg-id="Sky action." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+400
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+401
+#EXTINF:-1 tvg-id="Sky Bundesliga 2" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+431
+#EXTINF:-1 tvg-id="Sky Bundesliga 3" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+432
+#EXTINF:-1 tvg-id="Sky Bundesliga 4" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+433
+#EXTINF:-1 tvg-id="Sky Bundesliga 5" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+434
+#EXTINF:-1 tvg-id="Sky Bundesliga 6" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+435
+#EXTINF:-1 tvg-id="Sky Bundesliga 7" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+436
+#EXTINF:-1 tvg-id="Sky Bundesliga 8" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+437
+#EXTINF:-1 tvg-id="Sky cinema." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+402
+#EXTINF:-1 tvg-id="Sky Emotion" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+399
+#EXTINF:-1 tvg-id="Sky sport 1 DE" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+403
+#EXTINF:-1 tvg-id="Sky sport 2 DE" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+404
+#EXTINF:-1 tvg-id="Sport 1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+405
+#EXTINF:-1 tvg-id="Super RTL" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+406
+#EXTINF:-1 tvg-id="Syfy.." tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+407
+#EXTINF:-1 tvg-id="test" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+285
+#EXTINF:-1 tvg-id="TNT comedy" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+654
+#EXTINF:-1 tvg-id="TNT serie" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+655
+#EXTINF:-1 tvg-id="TNT," tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+656
+#EXTINF:-1 tvg-id="VOX" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+408
+#EXTINF:-1 tvg-id="ZDF" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+409
+#EXTINF:-1 tvg-id="ZDF Neo" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All" 
+671
