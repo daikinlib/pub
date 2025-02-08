@@ -11,17 +11,17 @@
 514
 #EXTINF:-1 tvg-id="Fox sports6" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Fox sports6
 515
-#EXTINF:-1 tvg-id="NPO 1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="NPO 1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", NPO 1
 750
-#EXTINF:-1 tvg-id="NPO 2" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="NPO 2" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", NPO 2
 758
-#EXTINF:-1 tvg-id="NPO 3" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="NPO 3" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", NPO 3
 759
-#EXTINF:-1 tvg-id="Slam tv" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Slam tv" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Slam tv
 618
-#EXTINF:-1 tvg-id="Ziggo Racing" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Ziggo Racing" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Ziggo Racing
 761
-#EXTINF:-1 tvg-id="Ziggo Select" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Ziggo Select" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Ziggo Select
 760
-#EXTINF:-1 tvg-id="Ziggo Voetbal" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Ziggo Voetbal" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Ziggo Voetbal
 762
