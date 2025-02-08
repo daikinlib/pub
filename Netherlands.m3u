@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Fox sports1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Fox sports1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Fox sports1
 510
-#EXTINF:-1 tvg-id="Fox sports2" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Fox sports2" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Fox sports2
 511
-#EXTINF:-1 tvg-id="Fox sports3" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Fox sports3" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Fox sports3
 512
-#EXTINF:-1 tvg-id="Fox sports4" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Fox sports4" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Fox sports4
 513
-#EXTINF:-1 tvg-id="Fox sports5" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Fox sports5" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Fox sports5
 514
-#EXTINF:-1 tvg-id="Fox sports6" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Fox sports6" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Fox sports6
 515
 #EXTINF:-1 tvg-id="NPO 1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
 750
