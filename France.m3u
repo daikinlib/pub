@@ -1,79 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Arte" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Arte
 327
-#EXTINF:-1 tvg-id="Bein Sports 1 FR" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Bein Sports 1 FR" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Bein Sports 1 FR
 49
-#EXTINF:-1 tvg-id="BeIN Sports 2 FR" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="BeIN Sports 2 FR" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", BeIN Sports 2 FR
 51
-#EXTINF:-1 tvg-id="BeIN Sports 3 FR" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="BeIN Sports 3 FR" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", BeIN Sports 3 FR
 52
-#EXTINF:-1 tvg-id="Bein sports max 4" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Bein sports max 4" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Bein sports max 4
 451
-#EXTINF:-1 tvg-id="Bein sports max 5" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Bein sports max 5" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Bein sports max 5
 452
-#EXTINF:-1 tvg-id="Bein sports max 6" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Bein sports max 6" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Bein sports max 6
 453
-#EXTINF:-1 tvg-id="Bein sports max 7" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Bein sports max 7" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Bein sports max 7
 454
-#EXTINF:-1 tvg-id="C8" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="C8" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", C8
 503
-#EXTINF:-1 tvg-id="Canal+" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Canal+" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Canal+
 315
-#EXTINF:-1 tvg-id="Canal+ Cinema" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Canal+ Cinema" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Canal+ Cinema
 325
-#EXTINF:-1 tvg-id="Canal+ Family" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Canal+ Family
 317
-#EXTINF:-1 tvg-id="Canal+ Series" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Canal+ Series" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Canal+ Series
 323
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Canal+ Sport
 316
-#EXTINF:-1 tvg-id="Cine+ Classic" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Cine+ Classic" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Cine+ Classic
 335
-#EXTINF:-1 tvg-id="Cine+ Emotion" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Cine+ Emotion" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Cine+ Emotion
 333
-#EXTINF:-1 tvg-id="Cine+ Frisson" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Cine+ Frisson" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Cine+ Frisson
 320
-#EXTINF:-1 tvg-id="Cine+ Premier" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Cine+ Premier" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Cine+ Premier
 334
-#EXTINF:-1 tvg-id="CNews" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="CNews" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", CNews
 751
-#EXTINF:-1 tvg-id="Comedie+" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Comedie+" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Comedie+
 332
-#EXTINF:-1 tvg-id="Cstar" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Cstar" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Cstar
 670
-#EXTINF:-1 tvg-id="Discovery Science-" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Discovery Science-" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Discovery Science-
 783
-#EXTINF:-1 tvg-id="Discovery,," tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Discovery,," tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Discovery,,
 763
-#EXTINF:-1 tvg-id="Gulli" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Gulli
 326
-#EXTINF:-1 tvg-id="HD1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="HD1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", HD1
 324
-#EXTINF:-1 tvg-id="Infosport+" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Infosport+" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Infosport+
 721
-#EXTINF:-1 tvg-id="LCI" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="LCI" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", LCI
 753
-#EXTINF:-1 tvg-id="M6" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", M6
 321
-#EXTINF:-1 tvg-id="Nat Geo,," tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Nat Geo,," tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Nat Geo,,
 764
-#EXTINF:-1 tvg-id="OCS Geants" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="OCS Geants" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", OCS Geants
 319
-#EXTINF:-1 tvg-id="Planete+" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Planete+" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Planete+
 318
-#EXTINF:-1 tvg-id="Planete+ CI" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Planete+ CI" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Planete+ CI
 322
-#EXTINF:-1 tvg-id="RMC Sport 1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="RMC Sport 1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RMC Sport 1
 598
-#EXTINF:-1 tvg-id="RMC Sport 2" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="RMC Sport 2" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RMC Sport 2
 599
-#EXTINF:-1 tvg-id="RMC Sport 3" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="RMC Sport 3" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RMC Sport 3
 600
-#EXTINF:-1 tvg-id="RMC Sport 4" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="RMC Sport 4" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RMC Sport 4
 601
-#EXTINF:-1 tvg-id="TF1" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", TF1
 504
-#EXTINF:-1 tvg-id="Ushuaia tv" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Ushuaia tv" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Ushuaia tv
 766
-#EXTINF:-1 tvg-id="Voyage tv" tvg-tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All"
+#EXTINF:-1 tvg-id="Voyage tv" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Voyage tv
 765
