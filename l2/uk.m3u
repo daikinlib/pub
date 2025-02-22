@@ -153,7 +153,7 @@
 165
 #EXTINF:-1 tvg-id="Nick jr" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Nick jr
 645
-#EXTINF:-1 tvg-id="Nick jr.too" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Nick jr.too
+#EXTINF:-1 tvg-id="Nick jr.too" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Nick jr2
 644
 #EXTINF:-1 tvg-id="Nick Toons" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Nick Toons
 166
@@ -187,7 +187,7 @@
 196
 #EXTINF:-1 tvg-id="Sky Cinema Comedy" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Cinema Comedy
 197
-#EXTINF:-1 tvg-id="Sky Cinema Crime &amp; Thriller" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Cinema Crime &amp; Thriller
+#EXTINF:-1 tvg-id="Sky Cinema Crime &amp; Thriller" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Cinema Crime&Thriller
 198
 #EXTINF:-1 tvg-id="Sky Cinema Disney" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Cinema Disney
 194
@@ -201,7 +201,7 @@
 696
 #EXTINF:-1 tvg-id="Sky Cinema Premiere" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Cinema Premiere
 201
-#EXTINF:-1 tvg-id="Sky Cinema Scifi &amp; Horror" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Cinema Scifi &amp; Horror
+#EXTINF:-1 tvg-id="Sky Cinema Scifi &amp; Horror" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Cinema Scifi&Horror
 202
 #EXTINF:-1 tvg-id="Sky Cinema Select" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Cinema Select
 254
@@ -231,7 +231,7 @@
 291
 #EXTINF:-1 tvg-id="Spike UK" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Spike UK
 289
-#EXTINF:-1 tvg-id="Syfy-" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Syfy-
+#EXTINF:-1 tvg-id="Syfy-" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Syfy
 495
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", TCM
 292
