@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC News" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", BBC News
-https://asdfasdft.mizhls.ru/lb/premium349/index.m3u8
-#EXTINF:-1 tvg-id="BBC Sport" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", BBC Sport
-https://asdfasdft.mizhls.ru/lb/premium357/index.m3u8
-#EXTINF:-1 tvg-id="Channel 5" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Channel 5
-https://asdfasdft.mizhls.ru/lb/premium355/index.m3u8
+#EXTINF:-1 tvg-id="ITV 1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", BBC News
+https://asdfasdft.mizhls.ru/lb/premium350/index.m3u8
+#EXTINF:-1 tvg-id="ITV 2" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", BBC Sport
+https://asdfasdft.mizhls.ru/lb/premium351/index.m3u8
+#EXTINF:-1 tvg-id="ITV 3" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Channel 5
+https://asdfasdft.mizhls.ru/lb/premium352/index.m3u8
