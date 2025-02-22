@@ -3,25 +3,25 @@
 657
 #EXTINF:-1 tvg-id="ARD" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", ARD
 665
-#EXTINF:-1 tvg-id="Arte" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Arte.
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Arte
 380
 #EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Boomerang
 381
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Cartoon Network,
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Cartoon Network
 651
 #EXTINF:-1 tvg-id="Cinemagic" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Cinemagic
 634
-#EXTINF:-1 tvg-id="Dazn1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Dazn1.
+#EXTINF:-1 tvg-id="Dazn1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Dazn1
 777
-#EXTINF:-1 tvg-id="Dazn2" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Dazn2.
+#EXTINF:-1 tvg-id="Dazn2" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Dazn2
 778
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Discovery,
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Discovery
 652
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Disney Channel.
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Disney Channel
 383
-#EXTINF:-1 tvg-id="Dmax" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Dmax.
+#EXTINF:-1 tvg-id="Dmax" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Dmax
 384
-#EXTINF:-1 tvg-id="Euro Sport" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Euro Sport.
+#EXTINF:-1 tvg-id="Euro Sport" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Euro Sport
 385
 #EXTINF:-1 tvg-id="Fox" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Fox,
 653
@@ -41,19 +41,19 @@
 392
 #EXTINF:-1 tvg-id="Pro 7 Max" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Pro 7 Max
 393
-#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RTL 2.
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RTL 2
 395
 #EXTINF:-1 tvg-id="RTL Nitro" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RTL Nitro
 396
-#EXTINF:-1 tvg-id="RTL" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RTL.
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", RTL
 394
-#EXTINF:-1 tvg-id="SAT.1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", SAT.1
+#EXTINF:-1 tvg-id="SAT.1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", SAT1
 397
 #EXTINF:-1 tvg-id="Sixx" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sixx
 398
 #EXTINF:-1 tvg-id="Sky 1 DE" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky 1 DE
 597
-#EXTINF:-1 tvg-id="Sky action" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky action.
+#EXTINF:-1 tvg-id="Sky action" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky action
 400
 #EXTINF:-1 tvg-id="Sky Bundesliga 1" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Bundesliga 1
 401
@@ -71,7 +71,7 @@
 436
 #EXTINF:-1 tvg-id="Sky Bundesliga 8" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Bundesliga 8
 437
-#EXTINF:-1 tvg-id="Sky cinema" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky cinema.
+#EXTINF:-1 tvg-id="Sky cinema" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky cinema
 402
 #EXTINF:-1 tvg-id="Sky Emotion" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", Sky Emotion
 399
@@ -89,7 +89,7 @@
 654
 #EXTINF:-1 tvg-id="TNT serie" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", TNT serie
 655
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", TNT,
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", TNT
 656
 #EXTINF:-1 tvg-id="VOX" tvg-logo="https://flagsapi.com/AL/shiny/64.png" group-title="All", VOX
 408
